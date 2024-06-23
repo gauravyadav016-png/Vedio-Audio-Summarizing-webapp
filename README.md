@@ -14,8 +14,8 @@ This project provides a web application for summarizing video and audio content 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/video-audio-summarizer.git
-   cd video-audio-summarizer
+   git clone https://github.com/gauravyadav016-png/Vedio-Audio-Summarizing-webapp.git
+   cd Video-Audio-Summarizer-webapp
 
 
 2. Install the required dependencies:
