@@ -44,9 +44,8 @@ This project provides a web application for summarizing video and audio content 
 
 ## Code Overview
 
-- `app.py`: The main application file that sets up the Streamlit interface and handles file uploads and summarization.
+- `sum.py`: The main application file that sets up the Streamlit interface and handles file uploads and summarization.
 - `VideoAudioSummarizer`: A class that provides methods to extract audio, transcribe it, and generate a summary.
-- `test_video_audio_summarizer.py`: Unit test cases for the `VideoAudioSummarizer` class.
 
 ## Dependencies
 
