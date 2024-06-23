@@ -33,7 +33,7 @@ This project provides a web application for summarizing video and audio content 
 
 1. Run the Streamlit application:
    ```bash
-   streamlit run app.py
+   streamlit run sum.py
    ```
 
 2. Open your web browser and navigate to `http://localhost:8501`.
