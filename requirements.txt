@@ -1,0 +1,7 @@
+streamlit,
+moviepy,
+dotenv,
+google-generativeai,
+speech_recogination,
+unittest,
+os
